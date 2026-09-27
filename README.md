@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1200&pause=500&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B;I'm+Faiyaz+Shahriar;Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+AI%2FML+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1200&pause=500&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B;I'm+Faiyaz+Shahriar;Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Aspiring+Software+Engineer"
     alt="Animated Introduction"
   />
 </p>
