@@ -140,7 +140,7 @@ A full-stack real-time communication application featuring authentication, messa
 
 `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
-🔗 **[GitHub Profile](https://github.com/faiyaz-10/imessage.git)**
+🔗 **[Repository](https://github.com/faiyaz-10/imessage.git)**
 
 ---
 
