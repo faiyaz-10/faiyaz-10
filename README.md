@@ -132,7 +132,7 @@ A fitness tracking web application designed to help users manage and monitor the
 
 ---
 
-### 💬 Real-Time Chat Application
+### 💬 IMESSAGE : A Real-Time Chat Application 
 
 A full-stack real-time communication application featuring authentication, messaging, media sharing and online presence.
 
@@ -140,7 +140,7 @@ A full-stack real-time communication application featuring authentication, messa
 
 `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
 
-🔗 **[GitHub Profile](https://github.com/faiyaz-10)**
+🔗 **[GitHub Profile](https://github.com/faiyaz-10/imessage.git)**
 
 ---
 
@@ -193,12 +193,12 @@ I'm particularly interested in:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=faiyaz-10&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-stats-extended.vercel.app/api?username=faiyaz-10&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
   height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyaz-10&layout=compact&theme=github_dark&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=faiyaz-10&layout=compact&theme=github_dark&hide_border=true"
   height="180"
 />
 
