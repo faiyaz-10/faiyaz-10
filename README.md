@@ -266,3 +266,11 @@ I'm particularly interested in:
 ### ⭐ Thanks for visiting my profile!
 
 **Keep building. Keep learning. Keep exploring. 🚀**
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+
+</p>
