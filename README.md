@@ -1,9 +1,15 @@
 <p align="center">
-  <img
-    src="./assets/banner_image.jpg"
-    alt="Faiyaz Shahriar - Computer Science & Engineering | Software Engineering | AI/ML"
+  <video
+    src="./assets/banner_video.mp4"
+    aria-label="Faiyaz Shahriar - Computer Science & Engineering | Software Engineering | AI/ML"
     width="100%"
-  />
+    autoplay
+    loop
+    muted
+    playsinline
+  >
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <!-- ======================= ANIMATED HEADER ======================= -->
