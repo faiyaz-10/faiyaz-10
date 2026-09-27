@@ -35,11 +35,11 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/faiyaz-shahriar-?utm_source=share_via&utm_content=profile&    utm_medium=member_android" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" width="55" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:faiyazshahriar373@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" width="55" alt="Email"/>
 </a>
 
@@ -53,7 +53,7 @@
 
 - 🚀 Full-stack applications using **React, Next.js and Node.js**
 - 🤖 **Generative AI, LLMs, RAG and AI Agents**
-- 🧠 **Data Structures & Algorithms**
+- 🧠 Focusing on **Data Structures & Algorithms**
 - 🔐 Exploring **AI Security and AI Safety**
 - 🔬 Preparing for **research in Human-AI Interaction**
 - 🛠️ Building projects that solve **real-world problems**
@@ -221,17 +221,25 @@ I'm particularly interested in:
 
 <br/>
 
-<!-- ======================= CONTRIBUTION ======================= -->
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
 
-## 🐍 CONTRIBUTION ACTIVITY
+## 🐍 GITHUB CONTRIBUTION SNAKE
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/faiyaz-10/faiyaz-10/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/faiyaz-10/faiyaz-10/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/faiyaz-10/faiyaz-10/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/faiyaz-10/faiyaz-10/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 <br/>
