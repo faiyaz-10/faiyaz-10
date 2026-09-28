@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/banner_image.jpg"
+    src="./assets/banner_image.png"
     alt="Faiyaz Shahriar - Computer Science & Engineering | Software Engineering | AI/ML"
     width="100%"
   />
